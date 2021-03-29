@@ -7,7 +7,7 @@ de maneira que para mim é mais intuitiva.
 
 Para rodar o projeto basta clona-lo e rodar "npm install". Após, rode o projeto com "npm start" e selecione o dispositivo em que deseja testar
 
-## Próximos passos
+## Próximos passos :black_square_button: :arrow_right: :white_check_mark:
 
 Ajustar a ordem dos componentes com posição absolute (atualmente a ordem não está conforme o projeto base) e refatorar o código separando-o em componentes.
 
