@@ -7,5 +7,5 @@ de maneira que para mim é mais intuitiva.
 
 Para rodar o projeto basta clona-lo e rodar "npm install". Após, rode o projeto com "npm start" e selecione o dispositivo em que deseja testar"
 
-# Inspiração :star::star::star:
+## Inspiração :star::star::star:
 O video da qual me inspirei pode ser encontrado em: https://www.youtube.com/watch?v=6LsLgHeX500
